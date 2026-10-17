@@ -18,3 +18,4 @@ Then upload product_reviews_dataset.csv in the sidebar and choose the "comment" 
 ## Data source
 Hu, M. and Liu, B. (2004). Mining and summarizing customer reviews. KDD-04.
 http://www.cs.uic.edu/~liub/FBS/FBS.html
+## Dashboard Link : https://lathikadashboard.streamlit.app/
